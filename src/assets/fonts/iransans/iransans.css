@@ -1,0 +1,42 @@
+@font-face {
+  /* tailwind css font weight is font-black */
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 900;
+  src: url("./IRANSansWeb_Black.woff2") format("woff2");
+}
+@font-face {
+  /* tailwind css font weight is font-bold */
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 700;
+  src: url("./IRANSansWeb_Bold.woff2") format("woff2");
+}
+@font-face {
+  /* tailwind css font weight is font-medium */
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 500;
+  src: url("./IRANSansWeb_Medium.woff2") format("woff2");
+}
+@font-face {
+  /* tailwind css font weight is font-normal */
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./IRANSansWeb.woff2") format("woff2");
+}
+@font-face {
+  /* tailwind css font weight is font-light */
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 300;
+  src: url("./IRANSansWeb_Light.woff2");
+}
+@font-face {
+  /* tailwind css font weight is font-extralight */
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 200;
+  src: url("./IRANSansWeb_UltraLight.woff2") format("woff2");
+}
